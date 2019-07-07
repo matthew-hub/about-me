@@ -1,6 +1,7 @@
 import React, { Component } from "react";
 import About from "../About/About";
 import ThemeSwitch from "../../components/ThemeSwitch";
+import Footer from '../../components/Footer';
 import "./App.scss";
 
 class App extends Component {
@@ -49,6 +50,7 @@ class App extends Component {
               <About theme={this.state.theme} />
             </section>
           </main>
+          <footer><Footer /> </footer>
         </div>
       </div>
     );
