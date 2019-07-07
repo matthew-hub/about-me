@@ -1,0 +1,32 @@
+
+.about {
+  display: grid;
+  grid-template-columns: 1fr;
+  // min-width: 320px;
+  grid-template-rows: auto;
+  grid-template-areas: 'me' 'hello' 'projects';
+}
+
+.me {
+  grid-area: me;
+  justify-self: start;
+}
+
+.contact {
+  grid-area: hello;
+  justify-self: end;
+}
+
+.projects {
+  grid-area: projects;
+  justify-self: start;
+  padding-bottom: 10px;
+}
+
+
+@media (max-width: 900px){
+  .contact {
+    justify-self: start;
+  }
+
+}
