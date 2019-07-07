@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/matthew-hub/about-me/static/css/main.1b0ff203.chunk.css",
+    "main.js": "/matthew-hub/about-me/static/js/main.86ffcf15.chunk.js",
+    "main.js.map": "/matthew-hub/about-me/static/js/main.86ffcf15.chunk.js.map",
+    "runtime~main.js": "/matthew-hub/about-me/static/js/runtime~main.50805c03.js",
+    "runtime~main.js.map": "/matthew-hub/about-me/static/js/runtime~main.50805c03.js.map",
+    "static/js/2.65aa1cca.chunk.js": "/matthew-hub/about-me/static/js/2.65aa1cca.chunk.js",
+    "static/js/2.65aa1cca.chunk.js.map": "/matthew-hub/about-me/static/js/2.65aa1cca.chunk.js.map",
+    "index.html": "/matthew-hub/about-me/index.html",
+    "precache-manifest.3dda61b9e86e2b57719ebbc1578a8008.js": "/matthew-hub/about-me/precache-manifest.3dda61b9e86e2b57719ebbc1578a8008.js",
+    "service-worker.js": "/matthew-hub/about-me/service-worker.js",
+    "static/css/main.1b0ff203.chunk.css.map": "/matthew-hub/about-me/static/css/main.1b0ff203.chunk.css.map",
+    "static/media/App.scss": "/matthew-hub/about-me/static/media/ProductSans-Regular.b61c0ab3.ttf",
+    "static/media/Projects.scss": "/matthew-hub/about-me/static/media/codeW.f7f66bdb.svg",
+    "static/media/moon.2328de1d.svg": "/matthew-hub/about-me/static/media/moon.2328de1d.svg",
+    "static/media/sun.848f22b4.svg": "/matthew-hub/about-me/static/media/sun.848f22b4.svg"
+  }
+}
