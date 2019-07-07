@@ -1,11 +1,16 @@
 .theme-switch {
   user-select: none;
-  width: 100%;
+  width: 30px;
   height: 26px;
   margin-top: 40px;
   display: inline-block;
   // background-image: url('../assets/images/moon.svg');
   background-repeat: no-repeat;
   background-size: 24px 26px;
+  opacity: 0.5;
   cursor: pointer;
+}
+
+.theme-switch:hover {
+  opacity: 1;
 }
