@@ -1,0 +1,38 @@
+.me {
+  user-select: none;
+
+
+  h1 {
+    line-height: 1;
+    font-size: 6rem;
+    font-family: OpenSans;
+    margin-top: 55px;
+    padding: 0;
+    text-align: left;
+    margin-left: -1px;
+  }
+
+  p {
+    margin-top: 40px;
+    max-width: 497px;
+    text-align: left;
+    width: 100%;
+    font-family: GoogleSans;
+    font-size: 2.5rem;
+    line-height: 2;
+  }
+
+  .js {
+    border-bottom: 3px solid #FFB300;
+    cursor: default;
+  }
+
+  .rc {
+    border-bottom: 3px solid #54C2EB;
+    cursor: default
+  }
+}
+
+
+
+
