@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/matthew-hub/about-me/static/css/main.1b0ff203.chunk.css",
-    "main.js": "/matthew-hub/about-me/static/js/main.8cd1c3df.chunk.js",
-    "main.js.map": "/matthew-hub/about-me/static/js/main.8cd1c3df.chunk.js.map",
-    "runtime~main.js": "/matthew-hub/about-me/static/js/runtime~main.50805c03.js",
-    "runtime~main.js.map": "/matthew-hub/about-me/static/js/runtime~main.50805c03.js.map",
-    "static/js/2.b8285db1.chunk.js": "/matthew-hub/about-me/static/js/2.b8285db1.chunk.js",
-    "static/js/2.b8285db1.chunk.js.map": "/matthew-hub/about-me/static/js/2.b8285db1.chunk.js.map",
-    "index.html": "/matthew-hub/about-me/index.html",
-    "precache-manifest.597f6332225f6007e81b63d95092e11a.js": "/matthew-hub/about-me/precache-manifest.597f6332225f6007e81b63d95092e11a.js",
-    "service-worker.js": "/matthew-hub/about-me/service-worker.js",
-    "static/css/main.1b0ff203.chunk.css.map": "/matthew-hub/about-me/static/css/main.1b0ff203.chunk.css.map",
-    "static/media/App.scss": "/matthew-hub/about-me/static/media/ProductSans-Regular.b61c0ab3.ttf",
-    "static/media/Projects.scss": "/matthew-hub/about-me/static/media/codeW.f7f66bdb.svg",
-    "static/media/moon.2328de1d.svg": "/matthew-hub/about-me/static/media/moon.2328de1d.svg",
-    "static/media/sun.848f22b4.svg": "/matthew-hub/about-me/static/media/sun.848f22b4.svg"
+    "main.css": "/about-me/static/css/main.98453da2.chunk.css",
+    "main.js": "/about-me/static/js/main.0b9375a8.chunk.js",
+    "main.js.map": "/about-me/static/js/main.0b9375a8.chunk.js.map",
+    "runtime~main.js": "/about-me/static/js/runtime~main.838ee889.js",
+    "runtime~main.js.map": "/about-me/static/js/runtime~main.838ee889.js.map",
+    "static/js/2.b8285db1.chunk.js": "/about-me/static/js/2.b8285db1.chunk.js",
+    "static/js/2.b8285db1.chunk.js.map": "/about-me/static/js/2.b8285db1.chunk.js.map",
+    "index.html": "/about-me/index.html",
+    "precache-manifest.66e7fdef444a17855699ee8eb8628b3d.js": "/about-me/precache-manifest.66e7fdef444a17855699ee8eb8628b3d.js",
+    "service-worker.js": "/about-me/service-worker.js",
+    "static/css/main.98453da2.chunk.css.map": "/about-me/static/css/main.98453da2.chunk.css.map",
+    "static/media/App.scss": "/about-me/static/media/ProductSans-Regular.b61c0ab3.ttf",
+    "static/media/Projects.scss": "/about-me/static/media/codeW.f7f66bdb.svg",
+    "static/media/moon.2328de1d.svg": "/about-me/static/media/moon.2328de1d.svg",
+    "static/media/sun.848f22b4.svg": "/about-me/static/media/sun.848f22b4.svg"
   }
 }
