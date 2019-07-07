@@ -1,5 +1,5 @@
 html {
-  font-size: 60%;
+  font-size: 55%;
 }
 
 html,
@@ -53,14 +53,12 @@ body {
   position: relative;
   margin-left: auto;
   margin-right: auto;
-  overflow-x: hidden;
   max-width: 920px;
   width: 100%;
-  height: 100%;
   font-size: 1.6rem;
   display: grid;
   grid-template-columns: 1fr;
-  grid-template-rows: auto 1fr;
+  grid-template-rows: auto 1fr auto;
   grid-template-areas: 'header''content';
   grid-row-gap: 0px;
 
@@ -87,8 +85,8 @@ main {
   grid-area: content;
   justify-self: stretch;
   width: 100%;
-  height: auto;
-  overflow: hidden;
+  overflow-x: hidden;
+ 
 }
 
 a {
@@ -138,4 +136,15 @@ a {
   .app {
     padding: 0 30px;
   }
+}
+
+@media (max-width: 415px) {
+  
+
+  .projects p > a {
+    display: block;
+  }
+
+ 
+ 
 }
