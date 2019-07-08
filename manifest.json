@@ -1,5 +1,4 @@
 {
-  "homepage": "https://matthew-hub.github.io/about-me/",
   "short_name": "About",
   "name": "About me",
   "icons": [
@@ -14,7 +13,7 @@
       "type": "image/png"
     }
   ],
-  "start_url": "https://matthew-hub.github.io/about-me/",
+  "start_url": "./",
   "display": "standalone",
   "theme_color": "#ffffff",
   "background_color": "#ffffff"
