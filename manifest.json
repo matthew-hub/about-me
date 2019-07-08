@@ -1,5 +1,5 @@
 {
-  "short_name": "Matthew",
+  "short_name": "About Matthew",
   "name": "About Matthew Ressel",
   "icons": [
     {
@@ -10,6 +10,11 @@
     {
       "src": "faviconhome.png",
       "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "logo.png",
+      "sizes": "512x512",
       "type": "image/png"
     }
   ],
