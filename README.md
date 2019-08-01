@@ -6,7 +6,7 @@ It's a simple SPA website written with ReactJS.
 
 # To start the project:
 ```
-git clone
+git clone https://github.com/matthew-hub/about-me.git
 npm install
 npm start
 ```
